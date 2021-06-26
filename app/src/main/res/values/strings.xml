@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabLayoutDemo</string>
+    <string name="items">項目</string>
+    <string name="tab_text_1">分頁1</string>
+    <string name="tab_text_2">分頁2</string>
+    <string name="week">(%s)</string>
+</resources>
